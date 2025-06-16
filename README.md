@@ -21,9 +21,10 @@ Cyfrowa Biblioteka to prosty system do zarządzania kolekcją książek, stworzo
 2.  Sklonuj repozytorium: `git clone https://github.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka-mvc`
 3.  Przejdź do folderu projektu
 4.  Zainstaluj zależności: `npm install`
-5.  Uruchom serwer w trybie deweloperskim (z automatycznym przeładowaniem): `npm run dev`
-6.  Lub uruchom serwer w trybie produkcyjnym: `npm start`
-7.  Otwórz przeglądarkę i przejdź pod adres: `http://localhost:3000`
+5.  Dodaj własne mongodb uri do config.js 
+6.  Uruchom serwer w trybie deweloperskim (z automatycznym przeładowaniem): `npm run dev`
+7.  Lub uruchom serwer w trybie produkcyjnym: `npm start`
+8.  Otwórz przeglądarkę i przejdź pod adres: `http://localhost:3000`
 
 ## Wykorzystane biblioteki zewnętrzne
 
