@@ -7,18 +7,18 @@ Cyfrowa Biblioteka to prosty system do zarządzania kolekcją książek, stworzo
 ## Funkcjonalności
 
 *   **Dodawanie książek**: Użytkownik może dodać nową książkę do katalogu, podając jej tytuł, autora i rok wydania.
-    ![Dodawanie książek](https://raw.githubusercontent.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka/refs/heads/main/screenshots/addBook.png)
+    ![Dodawanie książek](https://raw.githubusercontent.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka-mvc/refs/heads/main/screenshots/addBook.png)
 *   **Przeglądanie katalogu**: Aplikacja wyświetla listę wszystkich książek w czytelnej formie.
-![Przeglądanie katalogu](https://raw.githubusercontent.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka/refs/heads/main/screenshots/overview.png)
+![Przeglądanie katalogu](https://raw.githubusercontent.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka-mvc/refs/heads/main/screenshots/overview.png)
 *   **Edycja danych**: Istnieje możliwość edycji informacji o każdej książce.
-![Edycja danych](https://github.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka/blob/main/screenshots/editBook.png?raw=true)
+![Edycja danych](https://github.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka-mvc/blob/main/screenshots/editBook.png?raw=true)
 *   **Usuwanie książek**: Użytkownik może trwale usunąć pozycję z biblioteki.
 *   **Wyszukiwanie/Filtrowanie**: Możliwość filtrowania listy książek na podstawie tytułu lub autora.
 
 ## Instrukcja uruchomienia
 
 1.  Upewnij się, że masz zainstalowany **Node.js** (wersja 14.x lub nowsza) oraz działającą instancję **MongoDB**.
-2.  Sklonuj repozytorium: `git clone https://github.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka`
+2.  Sklonuj repozytorium: `git clone https://github.com/MaciejUlasiuk/system-zarzadzania-cyfrowa-biblioteka-mvc`
 3.  Przejdź do folderu projektu
 4.  Zainstaluj zależności: `npm install`
 5.  Uruchom serwer w trybie deweloperskim (z automatycznym przeładowaniem): `npm run dev`
